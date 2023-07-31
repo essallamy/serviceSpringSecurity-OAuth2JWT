@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customerService/customerService.iml" filepath="$PROJECT_DIR$/customerService/customerService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice.iml" filepath="$PROJECT_DIR$/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceSecurity-Auth2JWT/serviceSecurity-Auth2JWT.iml" filepath="$PROJECT_DIR$/serviceSecurity-Auth2JWT/serviceSecurity-Auth2JWT.iml" />
+    </modules>
+  </component>
+</project>
